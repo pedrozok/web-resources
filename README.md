@@ -46,6 +46,7 @@ A list of free & open source resources
 
 ## Colors
 
+-   http://www.lolcolors.com/
 -   https://coolors.co/
 -   https://color.hailpixel.com/
 -   http://lokeshdhakar.com/projects/color-thief/
